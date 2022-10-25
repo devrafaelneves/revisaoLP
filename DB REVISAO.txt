@@ -1,0 +1,18 @@
+select 
+	campos
+from	onde_estou
+inner join tabela ON (condicao(é a relação entre as tabelas)//historico_movimentacao.num_conta = conta.num_conta)
+
+
+EXCEPT;
+COUNT;
+ASC;
+DESC;
+SUM;
+AVG;
+ORDER BY;
+GROUP BY;
+
+
+ENTENDER SOBRE "TABELA ORIGEM" E "TABELA DESTINO" NO BANCO, A RELAÇÃO DELAS;
+Explicando sobre as CARDINALIDADES;
